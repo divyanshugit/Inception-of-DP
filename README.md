@@ -46,4 +46,4 @@
 - [Privacy Side Channels in Machine Learning Systems](https://arxiv.org/pdf/2309.05610.pdf)
 
 ## Reference:
-- [F, Boenisch, J, Vreeken: CISPA - Differential Privacy: Mathematical Foundations and Applications in Machine Learning](https://github.com/divyanshugit/Inception-of-DP/new/master?filename=README.md)
+- [F, Boenisch, J, Vreeken: CISPA - Differential Privacy: Mathematical Foundations and Applications in Machine Learning](https://cms.cispa.saarland/dp_in_ml/)
